@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/alexo/repos/Chess/build",
+  "command": "/usr/bin/c++  -I/home/alexo/repos/Chess/thirdparty/glad/include -g -o CMakeFiles/Chess.dir/src/main.cpp.o -c /home/alexo/repos/Chess/src/main.cpp",
+  "file": "/home/alexo/repos/Chess/src/main.cpp",
+  "output": "CMakeFiles/Chess.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/alexo/repos/Chess/build",
+  "command": "/usr/bin/cc  -I/home/alexo/repos/Chess/thirdparty/glad/include -g -o CMakeFiles/Chess.dir/src/glad.c.o -c /home/alexo/repos/Chess/src/glad.c",
+  "file": "/home/alexo/repos/Chess/src/glad.c",
+  "output": "CMakeFiles/Chess.dir/src/glad.c.o"
+}
+]

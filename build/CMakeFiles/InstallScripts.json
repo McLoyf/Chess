@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alexo/repos/Chess/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20260604-2210-Experimental"
+	Name="cachyos-x8664"
+	Generator="ctest-4.3.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="16.1.1"
+	OSName="Linux"
+	Hostname="cachyos-x8664"
+	OSRelease="7.0.10-2-cachyos"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu, 28 May 2026 21:12:58 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="183"
+	ModelName="Intel(R) Core(TM) i7-14650HX"
+	ProcessorCacheSize="30720"
+	NumberOfLogicalCPU="24"
+	NumberOfPhysicalCPU="16"
+	TotalVirtualMemory="31684"
+	TotalPhysicalMemory="31685"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="4474.050781"
+	>
+	<Testing>
+		<StartDateTime>Jun 04 18:06 CDT</StartDateTime>
+		<StartTestTime>1780614366</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 04 18:06 CDT</EndDateTime>
+		<EndTestTime>1780614366</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
