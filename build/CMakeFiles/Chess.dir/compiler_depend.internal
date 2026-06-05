@@ -74,8 +74,8 @@ CMakeFiles/Chess.dir/src/glad.c.o
 
 CMakeFiles/Chess.dir/src/main.cpp.o
  /home/alexo/repos/Chess/src/main.cpp
- /home/alexo/repos/Chess/thirdparty/glad/include/glad/glad.h
  /home/alexo/repos/Chess/thirdparty/glad/include/KHR/khrplatform.h
+ /home/alexo/repos/Chess/thirdparty/glad/include/glad/glad.h
  /usr/include/GLFW/glfw3.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
